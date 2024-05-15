@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nav Dhamrait</h1>
-<h3 align="center">A passionate full-stack developer, front-end focused developer from Toronto, Ontario</h3>
+<h3 align="center">A passionate Full-Stack developer from Toronto, Ontario</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nav-commits&label=Profile%20views&color=0e75b6&style=flat" alt="nav-commits" /> </p>
 
