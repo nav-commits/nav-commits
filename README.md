@@ -1,5 +1,16 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on innovative AI projects that push boundaries and enhance user experiences.<br>🤝 I’m looking for help with refining natural language processing algorithms for more accurate conversational AI.<br>🌱 I’m currently learning advanced machine learning techniques to improve model performance and scalability.<br>💬 Ask me about the latest trends in web development, best practices for building scalable applications, or tips for optimizing front-end performance.<br>⚡ Fun fact: I enjoy experimenting with new programming languages and frameworks in my spare time to stay updated with the ever-evolving tech landscape.
+Hi there, I'm Nav! 👋
+I'm a passionate React developer with front-end development experience. I love creating intuitive and responsive web applications that provide exceptional user experiences. Here’s a bit about me:
+
+👯 I’m looking to collaborate on: Exciting web development projects that push boundaries and enhance user experiences.
+
+🌱 I’m currently learning: Advanced techniques in front-end development and React to build more efficient and scalable applications.
+
+💬 Ask me about: The latest trends in web development, best practices for building scalable applications, or tips for optimizing front-end performance.
+
+⚡ Fun fact: I enjoy experimenting with new programming languages and frameworks in my spare time to stay updated with the ever-evolving tech landscape.
+
+
 
 
 ## 🌐 Socials:
