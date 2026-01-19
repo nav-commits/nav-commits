@@ -1,15 +1,18 @@
-# 💫 About Me:
-Hi there, I'm Nav! 👋
-I'm a passionate React developer with front-end development experience. I love creating intuitive and responsive web applications that provide exceptional user experiences. Here’s a bit about me:
+# 💫 About Me
 
-👯 I’m looking to collaborate on: Exciting web development projects that push boundaries and enhance user experiences.
+Hi, I’m **Nav**! 👋 I’m a passionate **Front-End Developer** specializing in **React** and **Next.js**. I love crafting **intuitive, responsive, and high-performance web applications** that delight users.  
 
-🌱 I’m currently learning: Advanced techniques in front-end development and React to build more efficient and scalable applications.
+## 👯 I’m open to collaborating on
+Challenging web projects where I can leverage modern front-end tech to build **scalable, user-friendly experiences**.  
 
-💬 Ask me about: The latest trends in web development, best practices for building scalable applications, or tips for optimizing front-end performance.
+## 🌱 Currently learning
+Advanced React patterns, Next.js optimizations, and the latest front-end tools to **write cleaner, faster, and more maintainable code**.  
 
-⚡ Fun fact: I enjoy experimenting with new programming languages and frameworks in my spare time to stay updated with the ever-evolving tech landscape.
+## 💬 Ask me about
+React, Next.js, front-end architecture, UI/UX best practices, performance optimization, or anything web development!  
 
+## ⚡ Fun fact
+I’m always experimenting with **new frameworks, libraries, and tools** to stay ahead in the rapidly evolving web ecosystem.
 
 
 
